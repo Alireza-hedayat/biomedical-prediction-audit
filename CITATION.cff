@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Beyond Apparent Accuracy: A Reproducibility Audit of Biomedical Prediction Validation"
+type: software
+authors:
+  - family-names: Hedayati
+    given-names: Alireza
+    email: alireza_hedayati@atu.ac.ir
+    affiliation: "Allameh Tabataba'i University"
+    orcid: "https://orcid.org/0009-0006-3221-8639"
+  - family-names: Homei
+    given-names: Hazhir
+    email: homei@tabrizu.ac.ir
+    affiliation: "University of Tabriz"
+    # orcid: TODO (author to provide)
+# repository-code: TODO (after deposit; no URL has been created)
+# license: TODO (authors have not decided a licence; do not add a license key until they do)
+# date-released: TODO (after author approval)
+# doi: TODO (no DOI has been issued)
