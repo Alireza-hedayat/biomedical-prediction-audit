@@ -1,0 +1,9 @@
+dataset,n,variant,calibration_slope,calibration_intercept,brier,log_loss
+WDBC,569,"Platt, ensemble=True (project default)",2.4294,1.0151,0.026678,0.110045
+WDBC,569,"Platt, ensemble=False",1.3973,0.35,0.020532,0.079148
+WPBC,198,"Platt, ensemble=True (project default)",0.8876,-0.1574,0.176329,0.532072
+WPBC,198,"Platt, ensemble=False",0.7706,-0.2411,0.177368,0.533492
+Coimbra,116,"Platt, ensemble=True (project default)",1.3446,0.185,0.207439,0.611959
+Coimbra,116,"Platt, ensemble=False",1.1145,-0.036,0.210034,0.623048
+Parkinsons,195,"Platt, ensemble=True (project default)",2.4385,-1.1293,0.118602,0.384517
+Parkinsons,195,"Platt, ensemble=False",2.1735,-0.6312,0.112151,0.36452
