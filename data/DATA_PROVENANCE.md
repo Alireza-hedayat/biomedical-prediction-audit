@@ -1,0 +1,18 @@
+# Data provenance, transformation and attribution
+
+All four sources are listed by UCI as licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); original creators and UCI must be credited. The software licence of this repository has not yet been decided by the authors, and it would not change the datasets' licence. Source and cleaned-file SHA-256 values are in `SHA256SUMS`; `datasets_manifest.csv` lists cleaned-file hashes, dimensions, class counts and intentional missingness. Check from the repository root with `sha256sum -c data/SHA256SUMS`.
+
+| Dataset | Source and attribution | Local raw file | Adaptations in the clean file |
+|---|---|---|---|
+| WDBC | Wolberg, Mangasarian, Street et al.; [UCI DOI 10.24432/C5DW2B](https://doi.org/10.24432/C5DW2B) | `raw/wdbc.data`; data loaded through `sklearn.datasets.load_breast_cancer` | Labels converted to 1 malignant, 0 benign; 30 predictors. The numerical matrix is asserted identical to the UCI source. Identifier omitted from model and clean export. |
+| WPBC | Wolberg, Street and Mangasarian; [UCI DOI 10.24432/C5GK50](https://doi.org/10.24432/C5GK50) | `raw/wpbc.data`, `raw/wpbc.names` | Outcome R/N mapped to 1/0; ID and follow-up time removed from model and clean export. Thirty morphology features plus tumor size and lymph-node status remain. Four missing node values remain blank and are imputed from training data only. |
+| Breast Cancer Coimbra | Patrício et al.; [UCI DOI 10.24432/C52P59](https://doi.org/10.24432/C52P59); [original study](https://doi.org/10.1186/s12885-017-3877-1) | `raw/coimbra.csv` (source name `dataR2.csv`) | Original class 1 healthy becomes 0; class 2 patient becomes 1. Nine predictors retained. |
+| Oxford Parkinsons | Little and collaborators; [UCI DOI 10.24432/C59C74](https://doi.org/10.24432/C59C74); [source paper](https://doi.org/10.1186/1475-925X-6-23) | `raw/parkinsons.data`, `raw/parkinsons.names` | 22 predictors; `status` retained as 1 disease/0 healthy. Recording names are reduced to a `subject_stem` metadata field, never used as an input feature. |
+
+## Independence and record identifiers
+
+A reproducible audit matches **139** distinct raw identifier values between WDBC and WPBC; **126** of those matched identifiers also have identical values for all 30 nuclear morphology features. All 139 have WDBC malignant labels. Therefore the cohorts should not be represented as four independent patient cohorts or used as external validation for one another. Exact identifiers are not exposed in the aggregate `results/dataset_overlap_audit.csv`, but they remain in the public raw files for provenance and the audit. The modelling clean files exclude the WDBC/WPBC IDs. Releasing the raw public files is a dataset redistribution and should follow the respective licenses and institutional policies.
+
+The Parkinson source description states 31 individuals and 195 recordings, whereas the raw file produces **32** distinct recording-name stems. These 32 stems are the conservative grouping proxy used here and should not be silently interpreted as 32 verified people. The UCI page's instance-count header also differs from the 195 rows in the distributed `parkinsons.data`; the actual file and its hash are authoritative for this analysis. The cluster linkage discrepancy needs independent source verification.
+
+WPBC's nonrecurrence label is observed over variable follow-up; removing follow-up from predictors prevents direct temporal leakage but does not turn the endpoint into a fixed-horizon, censoring-adjusted recurrence risk. Clinical transportability, survival analysis and group linkage require separate work.

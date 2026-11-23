@@ -1,0 +1,417 @@
+model,subject_stem,target,score,prediction
+Logistic Regression (L2),phon_R01_S01,1,0.9988264720678894,1
+Logistic Regression (L2),phon_R01_S02,1,0.9127465284114757,1
+Logistic Regression (L2),phon_R01_S04,1,0.7134015508377884,1
+Logistic Regression (L2),phon_R01_S05,1,0.996681080819108,1
+Logistic Regression (L2),phon_R01_S06,1,0.5996751869683331,1
+Logistic Regression (L2),phon_R01_S07,0,0.05680795184792951,0
+Logistic Regression (L2),phon_R01_S08,1,0.6365452883696657,1
+Logistic Regression (L2),phon_R01_S10,0,0.0908142383134819,0
+Logistic Regression (L2),phon_R01_S13,0,0.9320987647868112,1
+Logistic Regression (L2),phon_R01_S16,1,0.9691529219742474,1
+Logistic Regression (L2),phon_R01_S17,0,0.21858833229056743,0
+Logistic Regression (L2),phon_R01_S18,1,0.8670281295245745,1
+Logistic Regression (L2),phon_R01_S19,1,0.9471385729956568,1
+Logistic Regression (L2),phon_R01_S20,1,0.9812987554627556,1
+Logistic Regression (L2),phon_R01_S21,1,0.9747012755029031,1
+Logistic Regression (L2),phon_R01_S22,1,0.907257255704256,1
+Logistic Regression (L2),phon_R01_S24,1,0.9879131695199656,1
+Logistic Regression (L2),phon_R01_S25,1,0.18229774452015798,0
+Logistic Regression (L2),phon_R01_S26,1,0.6854401148761528,1
+Logistic Regression (L2),phon_R01_S27,1,0.8117179576240172,1
+Logistic Regression (L2),phon_R01_S31,1,0.7017380037640571,1
+Logistic Regression (L2),phon_R01_S32,1,0.625691411646815,1
+Logistic Regression (L2),phon_R01_S33,1,0.9670691191517268,1
+Logistic Regression (L2),phon_R01_S34,1,0.8630783191398467,1
+Logistic Regression (L2),phon_R01_S35,1,0.9980876121060841,1
+Logistic Regression (L2),phon_R01_S37,1,0.9363210601062827,1
+Logistic Regression (L2),phon_R01_S39,1,0.9849431065824471,1
+Logistic Regression (L2),phon_R01_S42,0,0.27427067407594885,0
+Logistic Regression (L2),phon_R01_S43,0,0.9499656964599144,1
+Logistic Regression (L2),phon_R01_S44,1,0.7634333004720802,1
+Logistic Regression (L2),phon_R01_S49,0,0.9018493778196289,1
+Logistic Regression (L2),phon_R01_S50,0,0.8702643399426712,1
+Logistic Regression (L1),phon_R01_S01,1,0.9978530167200219,1
+Logistic Regression (L1),phon_R01_S02,1,0.8872665487429937,1
+Logistic Regression (L1),phon_R01_S04,1,0.7213957125231604,1
+Logistic Regression (L1),phon_R01_S05,1,0.9957558072228484,1
+Logistic Regression (L1),phon_R01_S06,1,0.611415118820798,1
+Logistic Regression (L1),phon_R01_S07,0,0.05291206106194254,0
+Logistic Regression (L1),phon_R01_S08,1,0.6167654729201891,1
+Logistic Regression (L1),phon_R01_S10,0,0.10661036051684446,0
+Logistic Regression (L1),phon_R01_S13,0,0.9305911123984578,1
+Logistic Regression (L1),phon_R01_S16,1,0.972966991494492,1
+Logistic Regression (L1),phon_R01_S17,0,0.22101707296622145,0
+Logistic Regression (L1),phon_R01_S18,1,0.8612925384824255,1
+Logistic Regression (L1),phon_R01_S19,1,0.93657997300941,1
+Logistic Regression (L1),phon_R01_S20,1,0.9744553009585891,1
+Logistic Regression (L1),phon_R01_S21,1,0.9600037468272468,1
+Logistic Regression (L1),phon_R01_S22,1,0.8313645064875484,1
+Logistic Regression (L1),phon_R01_S24,1,0.9875077410150682,1
+Logistic Regression (L1),phon_R01_S25,1,0.19708978415559633,0
+Logistic Regression (L1),phon_R01_S26,1,0.6679305376982789,1
+Logistic Regression (L1),phon_R01_S27,1,0.8049439534518914,1
+Logistic Regression (L1),phon_R01_S31,1,0.6202812305869156,1
+Logistic Regression (L1),phon_R01_S32,1,0.5970321972925333,1
+Logistic Regression (L1),phon_R01_S33,1,0.9630583337370915,1
+Logistic Regression (L1),phon_R01_S34,1,0.8306139505581621,1
+Logistic Regression (L1),phon_R01_S35,1,0.996691330010186,1
+Logistic Regression (L1),phon_R01_S37,1,0.9461134359432036,1
+Logistic Regression (L1),phon_R01_S39,1,0.9795404283504879,1
+Logistic Regression (L1),phon_R01_S42,0,0.28314797061915287,0
+Logistic Regression (L1),phon_R01_S43,0,0.9458896759185597,1
+Logistic Regression (L1),phon_R01_S44,1,0.7636502889646469,1
+Logistic Regression (L1),phon_R01_S49,0,0.9023760368013733,1
+Logistic Regression (L1),phon_R01_S50,0,0.7406569536294149,1
+Linear Discriminant (LDA),phon_R01_S01,1,0.9894629913751624,1
+Linear Discriminant (LDA),phon_R01_S02,1,0.9573119786021218,1
+Linear Discriminant (LDA),phon_R01_S04,1,0.5862513288588969,1
+Linear Discriminant (LDA),phon_R01_S05,1,0.9932275238834899,1
+Linear Discriminant (LDA),phon_R01_S06,1,0.7603461471420182,1
+Linear Discriminant (LDA),phon_R01_S07,0,0.052627973100112295,0
+Linear Discriminant (LDA),phon_R01_S08,1,0.6678450445956848,1
+Linear Discriminant (LDA),phon_R01_S10,0,0.021763347026462376,0
+Linear Discriminant (LDA),phon_R01_S13,0,0.9813739373306068,1
+Linear Discriminant (LDA),phon_R01_S16,1,0.46034146774224954,0
+Linear Discriminant (LDA),phon_R01_S17,0,0.20789242958985402,0
+Linear Discriminant (LDA),phon_R01_S18,1,0.940862919050173,1
+Linear Discriminant (LDA),phon_R01_S19,1,0.9999100266694687,1
+Linear Discriminant (LDA),phon_R01_S20,1,0.9962227069138355,1
+Linear Discriminant (LDA),phon_R01_S21,1,0.9948910271863871,1
+Linear Discriminant (LDA),phon_R01_S22,1,0.9303432340503468,1
+Linear Discriminant (LDA),phon_R01_S24,1,0.8240398372028498,1
+Linear Discriminant (LDA),phon_R01_S25,1,0.3334806638511096,0
+Linear Discriminant (LDA),phon_R01_S26,1,0.7396583459927113,1
+Linear Discriminant (LDA),phon_R01_S27,1,0.6619665934820771,1
+Linear Discriminant (LDA),phon_R01_S31,1,0.7746439422273252,1
+Linear Discriminant (LDA),phon_R01_S32,1,0.7256591976822727,1
+Linear Discriminant (LDA),phon_R01_S33,1,0.9533974309468162,1
+Linear Discriminant (LDA),phon_R01_S34,1,0.7855584460668043,1
+Linear Discriminant (LDA),phon_R01_S35,1,0.9684332984874496,1
+Linear Discriminant (LDA),phon_R01_S37,1,0.9801729057149089,1
+Linear Discriminant (LDA),phon_R01_S39,1,0.9974574391068108,1
+Linear Discriminant (LDA),phon_R01_S42,0,0.25576574947681435,0
+Linear Discriminant (LDA),phon_R01_S43,0,0.9998287693894694,1
+Linear Discriminant (LDA),phon_R01_S44,1,0.8452520084882504,1
+Linear Discriminant (LDA),phon_R01_S49,0,0.9730481121891743,1
+Linear Discriminant (LDA),phon_R01_S50,0,0.6458305287221412,1
+SVM (linear kernel),phon_R01_S01,1,0.9901689109894546,1
+SVM (linear kernel),phon_R01_S02,1,0.8500193571720661,1
+SVM (linear kernel),phon_R01_S04,1,0.7084063609478366,1
+SVM (linear kernel),phon_R01_S05,1,0.9923866223384916,1
+SVM (linear kernel),phon_R01_S06,1,0.652981117118575,1
+SVM (linear kernel),phon_R01_S07,0,0.07613145629340755,0
+SVM (linear kernel),phon_R01_S08,1,0.661871369767818,1
+SVM (linear kernel),phon_R01_S10,0,0.07175342929307978,0
+SVM (linear kernel),phon_R01_S13,0,0.8879679911518225,1
+SVM (linear kernel),phon_R01_S16,1,0.9295916114374733,1
+SVM (linear kernel),phon_R01_S17,0,0.39239945787243635,0
+SVM (linear kernel),phon_R01_S18,1,0.8168040294096607,1
+SVM (linear kernel),phon_R01_S19,1,0.9563082880135806,1
+SVM (linear kernel),phon_R01_S20,1,0.9702436899036427,1
+SVM (linear kernel),phon_R01_S21,1,0.8861576215103353,1
+SVM (linear kernel),phon_R01_S22,1,0.9003833344803555,1
+SVM (linear kernel),phon_R01_S24,1,0.9658814276203004,1
+SVM (linear kernel),phon_R01_S25,1,0.24447858559178756,0
+SVM (linear kernel),phon_R01_S26,1,0.6868374568132011,1
+SVM (linear kernel),phon_R01_S27,1,0.762861765447259,1
+SVM (linear kernel),phon_R01_S31,1,0.5966541555454083,1
+SVM (linear kernel),phon_R01_S32,1,0.6495462748755666,1
+SVM (linear kernel),phon_R01_S33,1,0.9379154776173354,1
+SVM (linear kernel),phon_R01_S34,1,0.8240906587604752,1
+SVM (linear kernel),phon_R01_S35,1,0.9956494161233185,1
+SVM (linear kernel),phon_R01_S37,1,0.8766095263033954,1
+SVM (linear kernel),phon_R01_S39,1,0.9867758288632088,1
+SVM (linear kernel),phon_R01_S42,0,0.2551278941432617,0
+SVM (linear kernel),phon_R01_S43,0,0.9583779456195898,1
+SVM (linear kernel),phon_R01_S44,1,0.767070121952146,1
+SVM (linear kernel),phon_R01_S49,0,0.900313553865034,1
+SVM (linear kernel),phon_R01_S50,0,0.8090152643831482,1
+SVM (RBF kernel),phon_R01_S01,1,0.9183828545844986,1
+SVM (RBF kernel),phon_R01_S02,1,0.8719810677072665,1
+SVM (RBF kernel),phon_R01_S04,1,0.7435028890597845,1
+SVM (RBF kernel),phon_R01_S05,1,0.9610277856534605,1
+SVM (RBF kernel),phon_R01_S06,1,0.6741815706028734,1
+SVM (RBF kernel),phon_R01_S07,0,0.1594651226260352,0
+SVM (RBF kernel),phon_R01_S08,1,0.6747334275052591,1
+SVM (RBF kernel),phon_R01_S10,0,0.01820966881364889,0
+SVM (RBF kernel),phon_R01_S13,0,0.943681004561231,1
+SVM (RBF kernel),phon_R01_S16,1,0.9590291097504172,1
+SVM (RBF kernel),phon_R01_S17,0,0.2163128743273036,0
+SVM (RBF kernel),phon_R01_S18,1,0.9249247237388886,1
+SVM (RBF kernel),phon_R01_S19,1,0.9058202472588034,1
+SVM (RBF kernel),phon_R01_S20,1,0.9737666749864538,1
+SVM (RBF kernel),phon_R01_S21,1,0.875178269963729,1
+SVM (RBF kernel),phon_R01_S22,1,0.9118929711949204,1
+SVM (RBF kernel),phon_R01_S24,1,0.7939347143911536,1
+SVM (RBF kernel),phon_R01_S25,1,0.40474063486929496,0
+SVM (RBF kernel),phon_R01_S26,1,0.6712327158246776,1
+SVM (RBF kernel),phon_R01_S27,1,0.680119116047197,1
+SVM (RBF kernel),phon_R01_S31,1,0.8872107445574731,1
+SVM (RBF kernel),phon_R01_S32,1,0.6933366330126344,1
+SVM (RBF kernel),phon_R01_S33,1,0.9530534901317534,1
+SVM (RBF kernel),phon_R01_S34,1,0.694817432796848,1
+SVM (RBF kernel),phon_R01_S35,1,0.8447344920575208,1
+SVM (RBF kernel),phon_R01_S37,1,0.8177589905737915,1
+SVM (RBF kernel),phon_R01_S39,1,0.9826649008642145,1
+SVM (RBF kernel),phon_R01_S42,0,0.22231355118357055,0
+SVM (RBF kernel),phon_R01_S43,0,0.9811103498076615,1
+SVM (RBF kernel),phon_R01_S44,1,0.8527440594535262,1
+SVM (RBF kernel),phon_R01_S49,0,0.8959742212708853,1
+SVM (RBF kernel),phon_R01_S50,0,0.8702944992585099,1
+k-Nearest Neighbours,phon_R01_S01,1,1.0,1
+k-Nearest Neighbours,phon_R01_S02,1,0.7999999999999999,1
+k-Nearest Neighbours,phon_R01_S04,1,0.6666666666666666,1
+k-Nearest Neighbours,phon_R01_S05,1,0.9666666666666667,1
+k-Nearest Neighbours,phon_R01_S06,1,0.7333333333333334,1
+k-Nearest Neighbours,phon_R01_S07,0,0.5333333333333333,1
+k-Nearest Neighbours,phon_R01_S08,1,0.8666666666666667,1
+k-Nearest Neighbours,phon_R01_S10,0,0.3,0
+k-Nearest Neighbours,phon_R01_S13,0,0.7000000000000001,1
+k-Nearest Neighbours,phon_R01_S16,1,1.0,1
+k-Nearest Neighbours,phon_R01_S17,0,0.4666666666666666,0
+k-Nearest Neighbours,phon_R01_S18,1,0.9666666666666667,1
+k-Nearest Neighbours,phon_R01_S19,1,0.6333333333333333,1
+k-Nearest Neighbours,phon_R01_S20,1,0.9666666666666667,1
+k-Nearest Neighbours,phon_R01_S21,1,1.0,1
+k-Nearest Neighbours,phon_R01_S22,1,1.0,1
+k-Nearest Neighbours,phon_R01_S24,1,1.0,1
+k-Nearest Neighbours,phon_R01_S25,1,0.8333333333333334,1
+k-Nearest Neighbours,phon_R01_S26,1,0.6666666666666666,1
+k-Nearest Neighbours,phon_R01_S27,1,0.6285714285714287,1
+k-Nearest Neighbours,phon_R01_S31,1,0.9666666666666667,1
+k-Nearest Neighbours,phon_R01_S32,1,0.3666666666666667,0
+k-Nearest Neighbours,phon_R01_S33,1,0.9666666666666667,1
+k-Nearest Neighbours,phon_R01_S34,1,0.7666666666666666,1
+k-Nearest Neighbours,phon_R01_S35,1,1.0,1
+k-Nearest Neighbours,phon_R01_S37,1,0.7999999999999999,1
+k-Nearest Neighbours,phon_R01_S39,1,1.0,1
+k-Nearest Neighbours,phon_R01_S42,0,0.4666666666666666,0
+k-Nearest Neighbours,phon_R01_S43,0,0.7999999999999999,1
+k-Nearest Neighbours,phon_R01_S44,1,0.7666666666666667,1
+k-Nearest Neighbours,phon_R01_S49,0,0.9333333333333332,1
+k-Nearest Neighbours,phon_R01_S50,0,1.0,1
+Gaussian Naive Bayes,phon_R01_S01,1,1.0,1
+Gaussian Naive Bayes,phon_R01_S02,1,0.5309058957321331,1
+Gaussian Naive Bayes,phon_R01_S04,1,0.16669740683501302,0
+Gaussian Naive Bayes,phon_R01_S05,1,1.0,1
+Gaussian Naive Bayes,phon_R01_S06,1,0.16821941161816178,0
+Gaussian Naive Bayes,phon_R01_S07,0,1.1543817756011078e-07,0
+Gaussian Naive Bayes,phon_R01_S08,1,1.7143380333544762e-08,0
+Gaussian Naive Bayes,phon_R01_S10,0,5.75116505763308e-14,0
+Gaussian Naive Bayes,phon_R01_S13,0,0.009616208855787015,0
+Gaussian Naive Bayes,phon_R01_S16,1,0.9999999810907062,1
+Gaussian Naive Bayes,phon_R01_S17,0,4.090382591109257e-09,0
+Gaussian Naive Bayes,phon_R01_S18,1,0.9999999999933843,1
+Gaussian Naive Bayes,phon_R01_S19,1,0.6776414923806411,1
+Gaussian Naive Bayes,phon_R01_S20,1,0.8557333246295898,1
+Gaussian Naive Bayes,phon_R01_S21,1,0.999999999999967,1
+Gaussian Naive Bayes,phon_R01_S22,1,0.9999999999997714,1
+Gaussian Naive Bayes,phon_R01_S24,1,1.0,1
+Gaussian Naive Bayes,phon_R01_S25,1,7.02904578929536e-08,0
+Gaussian Naive Bayes,phon_R01_S26,1,0.4950095548878874,0
+Gaussian Naive Bayes,phon_R01_S27,1,0.16401187960972738,0
+Gaussian Naive Bayes,phon_R01_S31,1,1.0,1
+Gaussian Naive Bayes,phon_R01_S32,1,0.00044046528040990956,0
+Gaussian Naive Bayes,phon_R01_S33,1,0.9999245374112555,1
+Gaussian Naive Bayes,phon_R01_S34,1,0.5021918311663874,1
+Gaussian Naive Bayes,phon_R01_S35,1,1.0,1
+Gaussian Naive Bayes,phon_R01_S37,1,0.9982847894574842,1
+Gaussian Naive Bayes,phon_R01_S39,1,0.9072287268686158,1
+Gaussian Naive Bayes,phon_R01_S42,0,0.16679080759840234,0
+Gaussian Naive Bayes,phon_R01_S43,0,1.0520276233326722e-10,0
+Gaussian Naive Bayes,phon_R01_S44,1,6.331563841754642e-05,0
+Gaussian Naive Bayes,phon_R01_S49,0,0.46785271610604245,0
+Gaussian Naive Bayes,phon_R01_S50,0,1.0,1
+Random Forest,phon_R01_S01,1,0.9827777777777778,1
+Random Forest,phon_R01_S02,1,0.7361111111111112,1
+Random Forest,phon_R01_S04,1,0.66,1
+Random Forest,phon_R01_S05,1,0.9872222222222223,1
+Random Forest,phon_R01_S06,1,0.7355555555555555,1
+Random Forest,phon_R01_S07,0,0.52,1
+Random Forest,phon_R01_S08,1,0.6,1
+Random Forest,phon_R01_S10,0,0.22722222222222221,0
+Random Forest,phon_R01_S13,0,0.8488888888888889,1
+Random Forest,phon_R01_S16,1,0.9783333333333334,1
+Random Forest,phon_R01_S17,0,0.25555555555555554,0
+Random Forest,phon_R01_S18,1,0.975,1
+Random Forest,phon_R01_S19,1,0.8044444444444444,1
+Random Forest,phon_R01_S20,1,0.9505555555555555,1
+Random Forest,phon_R01_S21,1,0.972857142857143,1
+Random Forest,phon_R01_S22,1,0.94,1
+Random Forest,phon_R01_S24,1,0.9816666666666666,1
+Random Forest,phon_R01_S25,1,0.5838888888888889,1
+Random Forest,phon_R01_S26,1,0.5994444444444444,1
+Random Forest,phon_R01_S27,1,0.649047619047619,1
+Random Forest,phon_R01_S31,1,0.9566666666666667,1
+Random Forest,phon_R01_S32,1,0.5622222222222223,1
+Random Forest,phon_R01_S33,1,0.9783333333333334,1
+Random Forest,phon_R01_S34,1,0.8072222222222223,1
+Random Forest,phon_R01_S35,1,0.9361904761904762,1
+Random Forest,phon_R01_S37,1,0.9133333333333334,1
+Random Forest,phon_R01_S39,1,0.976111111111111,1
+Random Forest,phon_R01_S42,0,0.5022222222222222,1
+Random Forest,phon_R01_S43,0,0.8044444444444444,1
+Random Forest,phon_R01_S44,1,0.8022222222222223,1
+Random Forest,phon_R01_S49,0,0.8277777777777778,1
+Random Forest,phon_R01_S50,0,0.861111111111111,1
+Extra Trees,phon_R01_S01,1,0.9861111111111112,1
+Extra Trees,phon_R01_S02,1,0.7216666666666667,1
+Extra Trees,phon_R01_S04,1,0.63,1
+Extra Trees,phon_R01_S05,1,0.9716666666666667,1
+Extra Trees,phon_R01_S06,1,0.7511111111111112,1
+Extra Trees,phon_R01_S07,0,0.4494444444444445,0
+Extra Trees,phon_R01_S08,1,0.6594444444444444,1
+Extra Trees,phon_R01_S10,0,0.19666666666666666,0
+Extra Trees,phon_R01_S13,0,0.8516666666666667,1
+Extra Trees,phon_R01_S16,1,0.976111111111111,1
+Extra Trees,phon_R01_S17,0,0.33944444444444444,0
+Extra Trees,phon_R01_S18,1,0.9488888888888889,1
+Extra Trees,phon_R01_S19,1,0.8033333333333333,1
+Extra Trees,phon_R01_S20,1,0.9705555555555555,1
+Extra Trees,phon_R01_S21,1,0.9509523809523809,1
+Extra Trees,phon_R01_S22,1,0.9622222222222222,1
+Extra Trees,phon_R01_S24,1,0.9833333333333334,1
+Extra Trees,phon_R01_S25,1,0.6494444444444444,1
+Extra Trees,phon_R01_S26,1,0.5966666666666667,1
+Extra Trees,phon_R01_S27,1,0.6823809523809523,1
+Extra Trees,phon_R01_S31,1,0.9572222222222222,1
+Extra Trees,phon_R01_S32,1,0.5305555555555556,1
+Extra Trees,phon_R01_S33,1,0.9638888888888889,1
+Extra Trees,phon_R01_S34,1,0.7733333333333333,1
+Extra Trees,phon_R01_S35,1,0.9695238095238096,1
+Extra Trees,phon_R01_S37,1,0.8605555555555555,1
+Extra Trees,phon_R01_S39,1,0.975,1
+Extra Trees,phon_R01_S42,0,0.5038888888888889,1
+Extra Trees,phon_R01_S43,0,0.875,1
+Extra Trees,phon_R01_S44,1,0.8105555555555556,1
+Extra Trees,phon_R01_S49,0,0.8672222222222222,1
+Extra Trees,phon_R01_S50,0,0.9261111111111111,1
+Gradient Boosting,phon_R01_S01,1,0.9993774863189057,1
+Gradient Boosting,phon_R01_S02,1,0.8236179823775088,1
+Gradient Boosting,phon_R01_S04,1,0.5313461033687136,1
+Gradient Boosting,phon_R01_S05,1,0.9998859961781239,1
+Gradient Boosting,phon_R01_S06,1,0.8466984527993815,1
+Gradient Boosting,phon_R01_S07,0,0.9608577687256817,1
+Gradient Boosting,phon_R01_S08,1,0.7335490110953703,1
+Gradient Boosting,phon_R01_S10,0,0.161816527357086,0
+Gradient Boosting,phon_R01_S13,0,0.9998620512253081,1
+Gradient Boosting,phon_R01_S16,1,0.99858368000159,1
+Gradient Boosting,phon_R01_S17,0,0.06556842894941649,0
+Gradient Boosting,phon_R01_S18,1,0.9991583311107753,1
+Gradient Boosting,phon_R01_S19,1,0.9972683112443507,1
+Gradient Boosting,phon_R01_S20,1,0.9999077427118913,1
+Gradient Boosting,phon_R01_S21,1,0.9985042724459047,1
+Gradient Boosting,phon_R01_S22,1,0.993070963400958,1
+Gradient Boosting,phon_R01_S24,1,0.9996017922406143,1
+Gradient Boosting,phon_R01_S25,1,0.7062092764174284,1
+Gradient Boosting,phon_R01_S26,1,0.6666547858292506,1
+Gradient Boosting,phon_R01_S27,1,0.9765540933373575,1
+Gradient Boosting,phon_R01_S31,1,0.9998066077187878,1
+Gradient Boosting,phon_R01_S32,1,0.9008371593763683,1
+Gradient Boosting,phon_R01_S33,1,0.9995379553804581,1
+Gradient Boosting,phon_R01_S34,1,0.9363675687434195,1
+Gradient Boosting,phon_R01_S35,1,0.9999226006041116,1
+Gradient Boosting,phon_R01_S37,1,0.8852396497018488,1
+Gradient Boosting,phon_R01_S39,1,0.9999626936842162,1
+Gradient Boosting,phon_R01_S42,0,0.3148914492516799,0
+Gradient Boosting,phon_R01_S43,0,0.9973678465184125,1
+Gradient Boosting,phon_R01_S44,1,0.984728581950206,1
+Gradient Boosting,phon_R01_S49,0,0.9994886167122398,1
+Gradient Boosting,phon_R01_S50,0,0.993034327940817,1
+HistGradient Boosting,phon_R01_S01,1,0.9981308820710741,1
+HistGradient Boosting,phon_R01_S02,1,0.8290887184781313,1
+HistGradient Boosting,phon_R01_S04,1,0.9009712810250315,1
+HistGradient Boosting,phon_R01_S05,1,0.9999435911338583,1
+HistGradient Boosting,phon_R01_S06,1,0.9546710335486686,1
+HistGradient Boosting,phon_R01_S07,0,0.8084838649049356,1
+HistGradient Boosting,phon_R01_S08,1,0.8603912843687552,1
+HistGradient Boosting,phon_R01_S10,0,0.04883059254663171,0
+HistGradient Boosting,phon_R01_S13,0,0.9954851312411738,1
+HistGradient Boosting,phon_R01_S16,1,0.9970908188193186,1
+HistGradient Boosting,phon_R01_S17,0,0.028450999975610344,0
+HistGradient Boosting,phon_R01_S18,1,0.9988793270221876,1
+HistGradient Boosting,phon_R01_S19,1,0.9383165438024932,1
+HistGradient Boosting,phon_R01_S20,1,0.9931737654805884,1
+HistGradient Boosting,phon_R01_S21,1,0.9994847407920341,1
+HistGradient Boosting,phon_R01_S22,1,0.9991247303342673,1
+HistGradient Boosting,phon_R01_S24,1,0.9989985118223506,1
+HistGradient Boosting,phon_R01_S25,1,0.9284581527854686,1
+HistGradient Boosting,phon_R01_S26,1,0.6211540360848322,1
+HistGradient Boosting,phon_R01_S27,1,0.8735861622808148,1
+HistGradient Boosting,phon_R01_S31,1,0.99816794749858,1
+HistGradient Boosting,phon_R01_S32,1,0.7818337341609604,1
+HistGradient Boosting,phon_R01_S33,1,0.9976124865851416,1
+HistGradient Boosting,phon_R01_S34,1,0.9326322366126503,1
+HistGradient Boosting,phon_R01_S35,1,0.9945892043376209,1
+HistGradient Boosting,phon_R01_S37,1,0.9729752020152255,1
+HistGradient Boosting,phon_R01_S39,1,0.9990627431955102,1
+HistGradient Boosting,phon_R01_S42,0,0.2326268456184316,0
+HistGradient Boosting,phon_R01_S43,0,0.9317773283544009,1
+HistGradient Boosting,phon_R01_S44,1,0.9862239232245217,1
+HistGradient Boosting,phon_R01_S49,0,0.8463116805913069,1
+HistGradient Boosting,phon_R01_S50,0,0.9820221547890883,1
+Quantum kernel SVM (PCA-3),phon_R01_S01,1,0.9149779342590239,1
+Quantum kernel SVM (PCA-3),phon_R01_S02,1,0.7897119833741475,1
+Quantum kernel SVM (PCA-3),phon_R01_S04,1,0.6632998392390352,1
+Quantum kernel SVM (PCA-3),phon_R01_S05,1,0.9114932768804508,1
+Quantum kernel SVM (PCA-3),phon_R01_S06,1,0.831799771536858,1
+Quantum kernel SVM (PCA-3),phon_R01_S07,0,0.38511573696659696,0
+Quantum kernel SVM (PCA-3),phon_R01_S08,1,0.5934323919373249,1
+Quantum kernel SVM (PCA-3),phon_R01_S10,0,0.30269037207208077,0
+Quantum kernel SVM (PCA-3),phon_R01_S13,0,0.9701654666786906,1
+Quantum kernel SVM (PCA-3),phon_R01_S16,1,0.870125665446352,1
+Quantum kernel SVM (PCA-3),phon_R01_S17,0,0.19627145121550424,0
+Quantum kernel SVM (PCA-3),phon_R01_S18,1,0.9233109920322083,1
+Quantum kernel SVM (PCA-3),phon_R01_S19,1,0.9056747638254269,1
+Quantum kernel SVM (PCA-3),phon_R01_S20,1,0.9823116308240366,1
+Quantum kernel SVM (PCA-3),phon_R01_S21,1,0.8610938505748724,1
+Quantum kernel SVM (PCA-3),phon_R01_S22,1,0.9182784585855718,1
+Quantum kernel SVM (PCA-3),phon_R01_S24,1,0.9134858012850025,1
+Quantum kernel SVM (PCA-3),phon_R01_S25,1,0.6752214148477509,1
+Quantum kernel SVM (PCA-3),phon_R01_S26,1,0.5910503079346383,1
+Quantum kernel SVM (PCA-3),phon_R01_S27,1,0.47665502484739836,0
+Quantum kernel SVM (PCA-3),phon_R01_S31,1,0.9373170518776447,1
+Quantum kernel SVM (PCA-3),phon_R01_S32,1,0.821174868958875,1
+Quantum kernel SVM (PCA-3),phon_R01_S33,1,0.914226550440952,1
+Quantum kernel SVM (PCA-3),phon_R01_S34,1,0.7205850188280717,1
+Quantum kernel SVM (PCA-3),phon_R01_S35,1,0.8181097750314107,1
+Quantum kernel SVM (PCA-3),phon_R01_S37,1,0.8260705872237187,1
+Quantum kernel SVM (PCA-3),phon_R01_S39,1,0.9777480569972697,1
+Quantum kernel SVM (PCA-3),phon_R01_S42,0,0.42361956592177913,0
+Quantum kernel SVM (PCA-3),phon_R01_S43,0,0.8747762681352943,1
+Quantum kernel SVM (PCA-3),phon_R01_S44,1,0.7590984824765813,1
+Quantum kernel SVM (PCA-3),phon_R01_S49,0,0.7196527822862254,1
+Quantum kernel SVM (PCA-3),phon_R01_S50,0,0.8956646907336768,1
+RBF-SVM (matched PCA-3),phon_R01_S01,1,0.930759651752715,1
+RBF-SVM (matched PCA-3),phon_R01_S02,1,0.843980797513987,1
+RBF-SVM (matched PCA-3),phon_R01_S04,1,0.7412668967848749,1
+RBF-SVM (matched PCA-3),phon_R01_S05,1,0.9026580100202399,1
+RBF-SVM (matched PCA-3),phon_R01_S06,1,0.8886531171788995,1
+RBF-SVM (matched PCA-3),phon_R01_S07,0,0.4795849085145667,0
+RBF-SVM (matched PCA-3),phon_R01_S08,1,0.562687569650764,1
+RBF-SVM (matched PCA-3),phon_R01_S10,0,0.21264140091623293,0
+RBF-SVM (matched PCA-3),phon_R01_S13,0,0.9709163111046291,1
+RBF-SVM (matched PCA-3),phon_R01_S16,1,0.8525342502940948,1
+RBF-SVM (matched PCA-3),phon_R01_S17,0,0.16719559305479867,0
+RBF-SVM (matched PCA-3),phon_R01_S18,1,0.929382034222826,1
+RBF-SVM (matched PCA-3),phon_R01_S19,1,0.9042144175621284,1
+RBF-SVM (matched PCA-3),phon_R01_S20,1,0.9606436314384994,1
+RBF-SVM (matched PCA-3),phon_R01_S21,1,0.8668154032250889,1
+RBF-SVM (matched PCA-3),phon_R01_S22,1,0.9643238923684713,1
+RBF-SVM (matched PCA-3),phon_R01_S24,1,0.8767351137836908,1
+RBF-SVM (matched PCA-3),phon_R01_S25,1,0.8243259568319532,1
+RBF-SVM (matched PCA-3),phon_R01_S26,1,0.5215593777369162,1
+RBF-SVM (matched PCA-3),phon_R01_S27,1,0.4853934654758288,0
+RBF-SVM (matched PCA-3),phon_R01_S31,1,0.9405608573630254,1
+RBF-SVM (matched PCA-3),phon_R01_S32,1,0.7064278286620144,1
+RBF-SVM (matched PCA-3),phon_R01_S33,1,0.90748193614703,1
+RBF-SVM (matched PCA-3),phon_R01_S34,1,0.6563792524562764,1
+RBF-SVM (matched PCA-3),phon_R01_S35,1,0.8066106445133305,1
+RBF-SVM (matched PCA-3),phon_R01_S37,1,0.8521957358154008,1
+RBF-SVM (matched PCA-3),phon_R01_S39,1,0.9788625050167877,1
+RBF-SVM (matched PCA-3),phon_R01_S42,0,0.37217467533609455,0
+RBF-SVM (matched PCA-3),phon_R01_S43,0,0.881929685508453,1
+RBF-SVM (matched PCA-3),phon_R01_S44,1,0.8197350801320583,1
+RBF-SVM (matched PCA-3),phon_R01_S49,0,0.6770715600426112,1
+RBF-SVM (matched PCA-3),phon_R01_S50,0,0.9421532219387753,1

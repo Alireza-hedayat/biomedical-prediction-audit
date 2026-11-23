@@ -1,0 +1,5 @@
+dataset,file,n_rows,n_features,positive,negative,missing_features,sha256,sampling_unit
+WDBC,data/wdbc_clean.csv,569,30,212,357,0,e6617bbe083649eeca027c4dc52515a98dda67959d583d7c4ad589ff7a8972f7,patient
+WPBC,data/wpbc_clean.csv,198,32,47,151,4,9a34e38aea464062144a7191cf81b9cf451d8dea2bb805a171a55fae38efaf48,patient
+Coimbra,data/coimbra_clean.csv,116,9,64,52,0,eb7dfb4781460863a37ab6875a7bacd33176292964fc55657a2706af2e75e114,patient
+Parkinsons,data/parkinsons_clean.csv,195,22,147,48,0,d97e0a55a0fd1885613a79799f8ca1b7c6db3aef33b1c653f1d50b3fc3dc4248,recording

@@ -1,0 +1,61 @@
+dataset,model_or_variant,origin,n_folds,results_file,status
+WDBC,Logistic Regression (L2),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,Logistic Regression (L1),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,Linear Discriminant (LDA),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,SVM (linear kernel),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,SVM (RBF kernel),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,k-Nearest Neighbours,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,Gaussian Naive Bayes,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,Random Forest,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,Extra Trees,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,Gradient Boosting,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,HistGradient Boosting,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WDBC,Quantum kernel SVM (PCA-3),original quantum estimator,15,exp13_multi_dataset_quantum_benchmark.csv,PASS
+WDBC,RBF-SVM (matched PCA-3),additional matched comparator,15,exp13_multi_dataset_quantum_benchmark.csv,PASS
+WDBC,Original RBF-SVM PCA-3 (no angle scaling),original unmatched PCA-3 comparator,15,exp15_legacy_pca3_all_datasets.csv,PASS
+WDBC,Original-style Platt-calibrated L2 LR,original calibration architecture (all features),5,exp16_legacy_calibration.csv,PASS
+WPBC,Logistic Regression (L2),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,Logistic Regression (L1),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,Linear Discriminant (LDA),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,SVM (linear kernel),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,SVM (RBF kernel),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,k-Nearest Neighbours,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,Gaussian Naive Bayes,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,Random Forest,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,Extra Trees,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,Gradient Boosting,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,HistGradient Boosting,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+WPBC,Quantum kernel SVM (PCA-3),original quantum estimator,15,exp13_multi_dataset_quantum_benchmark.csv,PASS
+WPBC,RBF-SVM (matched PCA-3),additional matched comparator,15,exp13_multi_dataset_quantum_benchmark.csv,PASS
+WPBC,Original RBF-SVM PCA-3 (no angle scaling),original unmatched PCA-3 comparator,15,exp15_legacy_pca3_all_datasets.csv,PASS
+WPBC,Original-style Platt-calibrated L2 LR,original calibration architecture (all features),5,exp16_legacy_calibration.csv,PASS
+Coimbra,Logistic Regression (L2),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,Logistic Regression (L1),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,Linear Discriminant (LDA),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,SVM (linear kernel),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,SVM (RBF kernel),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,k-Nearest Neighbours,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,Gaussian Naive Bayes,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,Random Forest,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,Extra Trees,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,Gradient Boosting,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,HistGradient Boosting,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Coimbra,Quantum kernel SVM (PCA-3),original quantum estimator,15,exp13_multi_dataset_quantum_benchmark.csv,PASS
+Coimbra,RBF-SVM (matched PCA-3),additional matched comparator,15,exp13_multi_dataset_quantum_benchmark.csv,PASS
+Coimbra,Original RBF-SVM PCA-3 (no angle scaling),original unmatched PCA-3 comparator,15,exp15_legacy_pca3_all_datasets.csv,PASS
+Coimbra,Original-style Platt-calibrated L2 LR,original calibration architecture (all features),5,exp16_legacy_calibration.csv,PASS
+Parkinsons,Logistic Regression (L2),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,Logistic Regression (L1),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,Linear Discriminant (LDA),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,SVM (linear kernel),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,SVM (RBF kernel),original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,k-Nearest Neighbours,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,Gaussian Naive Bayes,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,Random Forest,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,Extra Trees,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,Gradient Boosting,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,HistGradient Boosting,original 11-model zoo,15,exp10_multi_dataset_zoo.csv,PASS
+Parkinsons,Quantum kernel SVM (PCA-3),original quantum estimator,15,exp13_multi_dataset_quantum_benchmark.csv,PASS
+Parkinsons,RBF-SVM (matched PCA-3),additional matched comparator,15,exp13_multi_dataset_quantum_benchmark.csv,PASS
+Parkinsons,Original RBF-SVM PCA-3 (no angle scaling),original unmatched PCA-3 comparator,15,exp15_legacy_pca3_all_datasets.csv,PASS
+Parkinsons,Original-style Platt-calibrated L2 LR,original calibration architecture (all features),5,exp16_legacy_calibration.csv,PASS

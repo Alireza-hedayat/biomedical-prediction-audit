@@ -1,0 +1,77 @@
+[02] START import sys, time, json, platform, warnings, hashlib
+[02] OK (1.1s), 1 outputs
+[05] START from sklearn.datasets import load_breast_cancer
+[05] OK (0.1s), 2 outputs
+[08] START STEMS = ["radius","texture","perimeter","area","smoothness",
+[08] OK (0.0s), 1 outputs
+[11] START from sklearn.base import clone
+[11] OK (0.1s), 0 outputs
+[14] START from sklearn.linear_model import LogisticRegression
+[14] OK (24.6s), 21 outputs
+[17] START from sklearn.ensemble import (RandomForestClassifier, ExtraTreesClassifier,
+[17] OK (31.8s), 14 outputs
+[20] START from sklearn.feature_selection import SelectKBest, f_classif, mutual_info_classif
+[20] OK (1.8s), 12 outputs
+[23] START from sklearn.model_selection import StratifiedKFold
+[23] OK (1.7s), 11 outputs
+[26] START from sklearn.calibration import CalibratedClassifierCV
+[26] OK (2.0s), 9 outputs
+[29] START # --- 3-qubit state preparation, pure numpy ----------------------------------
+[29] OK (0.1s), 1 outputs
+[32] START from sklearn.decomposition import PCA
+[32] OK (1.5s), 4 outputs
+[35] START import numpy as np, pandas as pd, time, warnings
+[35] OK (1.0s), 1 outputs
+[38] START def oof_pred(est, Xd, cv=None):
+[38] OK (0.2s), 2 outputs
+[41] START # --- paired bootstrap of the sensitivity difference (Worst - All) -----------
+[41] OK (0.1s), 1 outputs
+[44] START plt.rcParams.update({"font.size": 9, "axes.grid": True, "grid.alpha": .3,
+[44] OK (1.4s), 3 outputs
+[47] START th = pd.read_csv(RES / "exp4a_threshold_curve.csv")
+[47] OK (0.7s), 2 outputs
+[50] START rel = pd.read_csv(RES / "exp5b_reliability.csv")
+[50] OK (0.4s), 1 outputs
+[53] START RY = lambda t: np.array([[np.cos(t/2), -np.sin(t/2)],
+[53] OK (0.4s), 2 outputs
+[56] START sizes, tr_s, te_s = learning_curve(
+[56] OK (2.0s), 2 outputs
+[59] START # Numeric and categorical regression checks exclude wall-clock timings by design.
+[59] OK (0.1s), 2 outputs
+[62] START from sklearn.impute import SimpleImputer
+[62] OK (0.1s), 5 outputs
+[65] START from itertools import combinations
+[65] OK (8.0s), 54 outputs
+[68] START multi_zoo_rows, zoo_fold_rows = [], []
+[68] OK (101.6s), 53 outputs
+[71] START # A constrained operating-point rule: maximize precision subject to sensitivity >= 0.95.
+[71] OK (19.1s), 29 outputs
+[74] START from sklearn.calibration import CalibratedClassifierCV
+[74] OK (2.0s), 16 outputs
+[77] START from scipy.stats import binomtest, wilcoxon
+[77] OK (13.1s), 28 outputs
+[80] START # Supplement: grouped CV uses recording-name stems as a conservative grouping proxy.
+[80] OK (7.0s), 13 outputs
+[83] START # Re-run the original unmatched classical PCA-3 comparator on every dataset.
+[83] OK (1.5s), 5 outputs
+[86] START # Reproduce the reference Platt architecture on all features of all datasets.
+[86] OK (1.6s), 13 outputs
+[89] START # Apply the original threshold rule to all features of every dataset; preserve
+[89] OK (3.1s), 20 outputs
+[92] START # Extend the original three-model feature-block experiment where a block is
+[92] OK (57.1s), 68 outputs
+[95] START # Quantify actual training/test identifier-stem overlap in the 15-fold
+[95] OK (0.0s), 3 outputs
+[98] START # Machine-check that the source supplied for this project is the exact original,
+[98] OK (2.2s), 2 outputs
+[101] START # Audit the original learning_curve training prefixes. Its default shuffle=False
+[101] OK (0.0s), 3 outputs
+[104] START import matplotlib.pyplot as plt
+[104] OK (5.3s), 1 outputs
+[107] START WDBC_FIGURES = ['fig_blocks', 'fig_models', 'fig_models2', 'fig_threshold', 'fig_threshold2', 'fig_r
+[107] OK (0.1s), 24 outputs
+[110] START PRIMARY_TABLES = [
+[110] OK (0.2s), 4 outputs
+[113] START from PIL import Image as PILImage
+[113] OK (0.2s), 1 outputs
+NOTEBOOK EXECUTION COMPLETE in 299.2s

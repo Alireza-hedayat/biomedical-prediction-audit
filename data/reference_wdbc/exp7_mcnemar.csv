@@ -1,0 +1,3 @@
+comparison,b,c,stat,p
+"Worst(10) vs All(30), logistic regression",6,3,0.4444444444444444,0.5049850750938457
+"RBF-SVM vs logistic regression, all 30 features",6,4,0.1,0.7518296340458492
